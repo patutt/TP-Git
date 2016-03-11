@@ -37,7 +37,7 @@
         git checkout master
         git checkout -b votrecompte1-votrecompte2
         git merge votrecompte1
-        
+
 * Essayez d'intégrer la seconde branche à
 
         git merge votrecompte2
@@ -54,7 +54,7 @@
 * Dans GitHub faites une demande d'intégration (*pull request*).
 
 * Supposons maitenant que la branche officielle soit en déshérence et que vous décidiez de prendre la relève. Récupérez la dernière version officielle :
- 
+
         git pull official master
 
 * Récupérez la demande d'intégration d'un de vos collègues :
@@ -96,7 +96,7 @@ Liste des étudiants ayant réussi ce TP
 * Christophe MORE,
 * Mohammed Ouadghiri,
 * Togui Ilyass,
-* Nadia Kamoun, 
+* Nadia Kamoun,
 * Simon Renoult,
 * Arthur Bourjac,
 * Darya Ciuhrii,
@@ -141,4 +141,5 @@ Liste des étudiants ayant réussi ce TP
 * Romain GAGNAIRE,
 * Clement DOSDA,
 * Valentin BONINO,
-* Baptiste LOMBARDO.
+* Baptiste LOMBARDO,
+* Romain DIVANDARY.
