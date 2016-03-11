@@ -143,4 +143,7 @@ Liste des étudiants ayant réussi ce TP
 * Valentin BONINO,
 * Baptiste LOMBARDO,
 * Romain DIVANDARY,
-* Patrick LIM.
+* Patrick LIM,
+* Alexandre DUPONCHEL,
+* Othmane TARIQ,
+* Felix SOEDJEDE.
