@@ -138,4 +138,5 @@ Liste des étudiants ayant réussi ce TP
 * Clement DOSDA,
 * Valentin BONINO,
 * Baptiste LOMBARDO,
-* Alexandre DUPONCHEL.
+* Alexandre DUPONCHEL,
+* Othmane TARIQ.
